@@ -1,0 +1,10 @@
+#Notepad++ Regular expression (regex)
+#MySQL preparation
+#To add ('...'), to each entry when a comma already separates each entry...
+
+Find what: ,
+Replace with: '\),\n 
+
+Find what: ^
+Replace with: \('
+
